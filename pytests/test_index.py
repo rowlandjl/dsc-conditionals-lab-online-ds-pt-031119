@@ -1,5 +1,5 @@
 # importing testing framwork
-import pytests
+import pytest
 
 # importing objects from the jupyter notebook here
 from ipynb.fs.full.index import is_it_hot, day_of_the_week, ends_with, less_than_50
